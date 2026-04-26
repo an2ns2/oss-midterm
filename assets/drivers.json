@@ -1,0 +1,223 @@
+[
+        {
+            "id": "max_verstappen",
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing",
+            "nationality": "네덜란드",
+            "short_profile": "결정적인 레이스 운영과 최고 수준의 승리 본능을 지닌 압도적인 기준점 드라이버.",
+            "team_profile": "레드불 레이싱은 날카로운 실행력, 공기역학적 효율성, 그리고 챔피언십 수준의 페이스에 집중합니다.",
+            "traits": ["ace", "aggressive", "direct", "qualifying", "overtake", "flashy", "championship"],
+            "signature_image_path": "assets/signatures/max_verstappen.png"
+        },
+        {
+            "id": "sergio_perez",
+            "name": "Sergio Perez",
+            "team": "Cadillac Formula 1 Team",
+            "nationality": "멕시코",
+            "short_profile": "타이어 관리와 침착한 역전 드라이브로 알려진 경험 많은 레이스 전문가.",
+            "team_profile": "캐딜락은 야심찬 장기 계획, 강한 브랜드 정체성, 신선한 도전자 스토리를 가지고 F1에 진입합니다.",
+            "traits": ["veteran", "calm", "smooth", "consistent", "resilient", "story"],
+            "signature_image_path": "assets/signatures/sergio_perez.png"
+        },
+        {
+            "id": "valtteri_bottas",
+            "name": "Valtteri Bottas",
+            "team": "Cadillac Formula 1 Team",
+            "nationality": "핀란드",
+            "short_profile": "빠르고 기술적이며, 쿨한 이미지를 가진 차분한 베테랑.",
+            "team_profile": "캐딜락은 야심찬 장기 계획, 강한 브랜드 정체성, 신선한 도전자 스토리를 가지고 F1에 진입합니다.",
+            "traits": ["veteran", "calm", "technical", "smooth", "disciplined", "underdog"],
+            "signature_image_path": "assets/signatures/valtteri_bottas.png"
+        },
+        {
+            "id": "lewis_hamilton",
+            "name": "Lewis Hamilton",
+            "team": "Ferrari",
+            "nationality": "영국",
+            "short_profile": "레이스 실력, 품위, 그리고 F1 역사상 가장 강력한 레거시를 균형 있게 갖춘 글로벌 슈퍼스타.",
+            "team_profile": "페라리는 역사적인 명성, 거대한 팬 에너지, 그리고 속도를 승리로 전환해야 한다는 끊임없는 압박을 지닙니다.",
+            "traits": ["veteran", "ace", "calm", "flashy", "charismatic", "rain", "story"],
+            "signature_image_path": "assets/signatures/lewis_hamilton.png"
+        },
+        {
+            "id": "charles_leclerc",
+            "name": "Charles Leclerc",
+            "team": "Ferrari",
+            "nationality": "모나코",
+            "short_profile": "드라마틱한 팬 사랑 서사를 가진 감성적인 예선 전문가.",
+            "team_profile": "페라리는 역사적인 명성, 거대한 팬 에너지, 그리고 속도를 승리로 전환해야 한다는 끊임없는 압박을 지닙니다.",
+            "traits": ["ace", "flashy", "qualifying", "charismatic", "story", "direct"],
+            "signature_image_path": "assets/signatures/charles_leclerc.png"
+        },
+        {
+            "id": "lando_norris",
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "nationality": "영국",
+            "short_profile": "빠르고 위트 있으며, 폭넓은 팬층을 지닌 상품성 높은 현대형 스타.",
+            "team_profile": "맥라렌은 현대적이고 데이터 중심적인 문화와 젊고 잠재력 높은 드라이버 라인업을 결합합니다.",
+            "traits": ["ace", "flashy", "charismatic", "qualifying", "story", "papaya"],
+            "signature_image_path": "assets/signatures/lando_norris.png"
+        },
+        {
+            "id": "oscar_piastri",
+            "name": "Oscar Piastri",
+            "team": "McLaren",
+            "nationality": "호주",
+            "short_profile": "침착하고 정밀하며, 불필요한 움직임이 거의 없는 효율적인 신예 에이스.",
+            "team_profile": "맥라렌은 현대적이고 데이터 중심적인 문화와 젊고 잠재력 높은 드라이버 라인업을 결합합니다.",
+            "traits": ["ace", "calm", "precise", "technical", "disciplined", "papaya"],
+            "signature_image_path": "assets/signatures/oscar_piastri.png"
+        },
+        {
+            "id": "george_russell",
+            "name": "George Russell",
+            "team": "Mercedes",
+            "nationality": "영국",
+            "short_profile": "체계적이고 분석적인 선두 주자로, 세련되고 경쟁력 있는 강점을 지닌 드라이버.",
+            "team_profile": "메르세데스는 엔지니어링 규율, 일관성, 그리고 세련된 챔피언십 마인드셋을 강조합니다.",
+            "traits": ["ace", "technical", "disciplined", "qualifying", "direct", "silver"],
+            "signature_image_path": "assets/signatures/george_russell.png"
+        },
+        {
+            "id": "kimi_antonelli",
+            "name": "Kimi Antonelli",
+            "team": "Mercedes",
+            "nationality": "이탈리아",
+            "short_profile": "순수한 속도와 장기적인 성장 가능성으로 엄청난 기대를 받는 최고 유망주.",
+            "team_profile": "메르세데스는 엔지니어링 규율, 일관성, 그리고 세련된 챔피언십 마인드셋을 강조합니다.",
+            "traits": ["rookie", "flashy", "qualifying", "high_risk", "story", "silver"],
+            "signature_image_path": "assets/signatures/kimi_antonelli.png"
+        },
+        {
+            "id": "fernando_alonso",
+            "name": "Fernando Alonso",
+            "team": "Aston Martin",
+            "nationality": "스페인",
+            "short_profile": "전설적인 장수, 뛰어난 레이스 IQ, 언더독 매력을 지닌 마스터 전략가.",
+            "team_profile": "아스톤 마틴은 베테랑 경험, 대담한 야망, 그리고 프리미엄 팀 브랜딩을 결합합니다.",
+            "traits": ["veteran", "calm", "technical", "underdog", "story", "green"],
+            "signature_image_path": "assets/signatures/fernando_alonso.png"
+        },
+        {
+            "id": "lance_stroll",
+            "name": "Lance Stroll",
+            "team": "Aston Martin",
+            "nationality": "캐나다",
+            "short_profile": "조용하고 예측 불가능한 레이서로, 최고의 성과는 가장 예상치 못한 때 찾아온다.",
+            "team_profile": "아스톤 마틴은 베테랑 경험, 대담한 야망, 그리고 프리미엄 팀 브랜딩을 결합합니다.",
+            "traits": ["calm", "underdog", "rain", "resilient", "green"],
+            "signature_image_path": "assets/signatures/lance_stroll.png"
+        },
+        {
+            "id": "pierre_gasly",
+            "name": "Pierre Gasly",
+            "team": "Alpine",
+            "nationality": "프랑스",
+            "short_profile": "감정적이고 강인한 경쟁자로, 혼전 상황에서 빛을 발하는 경우가 많다.",
+            "team_profile": "알파인은 기술적 성장, 회복력, 그리고 돌파구 잠재력을 중심으로 구축된 팀입니다.",
+            "traits": ["underdog", "aggressive", "story", "resilient", "blue"],
+            "signature_image_path": "assets/signatures/pierre_gasly.png"
+        },
+        {
+            "id": "franco_colapinto",
+            "name": "Franco Colapinto",
+            "team": "Alpine",
+            "nationality": "아르헨티나",
+            "short_profile": "강한 모멘텀, 흥미 요소, 폭발적인 에너지를 지닌 대담한 젊은 드라이버.",
+            "team_profile": "알파인은 기술적 성장, 회복력, 그리고 돌파구 잠재력을 중심으로 구축된 팀입니다.",
+            "traits": ["rookie", "aggressive", "flashy", "charismatic", "blue"],
+            "signature_image_path": "assets/signatures/franco_colapinto.png"
+        },
+        {
+            "id": "alexander_albon",
+            "name": "Alexander Albon",
+            "team": "Williams",
+            "nationality": "태국",
+            "short_profile": "친근한 카리스마와 꾸준한 언더독 스토리를 가진 적응력 뛰어난 초과 성취자.",
+            "team_profile": "윌리엄스는 재건 모멘텀, 유산, 그리고 기대를 뛰어넘는 매력을 상징합니다.",
+            "traits": ["underdog", "calm", "resilient", "charismatic", "blue"],
+            "signature_image_path": "assets/signatures/alexander_albon.png"
+        },
+        {
+            "id": "carlos_sainz",
+            "name": "Carlos Sainz",
+            "team": "Williams",
+            "nationality": "스페인",
+            "short_profile": "준비와 레이스 컨트롤을 통해 결과를 만들어내는 체계적인 올라운더.",
+            "team_profile": "윌리엄스는 재건 모멘텀, 유산, 그리고 기대를 뛰어넘는 매력을 상징합니다.",
+            "traits": ["smooth", "technical", "disciplined", "consistent", "story", "blue"],
+            "signature_image_path": "assets/signatures/carlos_sainz.png"
+        },
+        {
+            "id": "nico_hulkenberg",
+            "name": "Nico Hulkenberg",
+            "team": "Stake F1 Team Kick Sauber",
+            "nationality": "독일",
+            "short_profile": "깔끔한 속도, 건조한 유머, 그리고 끊임없는 재기 서사를 지닌 믿음직한 베테랑.",
+            "team_profile": "자우버는 스마트한 개발과 미래 성장의 약속 위에 구축된 전환기 프로젝트입니다.",
+            "traits": ["veteran", "technical", "underdog", "consistent", "disciplined"],
+            "signature_image_path": "assets/signatures/nico_hulkenberg.png"
+        },
+        {
+            "id": "gabriel_bortoleto",
+            "name": "Gabriel Bortoleto",
+            "team": "Stake F1 Team Kick Sauber",
+            "nationality": "브라질",
+            "short_profile": "꾸준한 성장과 미래 가능성에서 매력이 나오는 사려 깊은 루키 유망주.",
+            "team_profile": "자우버는 스마트한 개발과 미래 성장의 약속 위에 구축된 전환기 프로젝트입니다.",
+            "traits": ["rookie", "calm", "technical", "story", "disciplined"],
+            "signature_image_path": "assets/signatures/gabriel_bortoleto.png"
+        },
+        {
+            "id": "esteban_ocon",
+            "name": "Esteban Ocon",
+            "team": "Haas",
+            "nationality": "프랑스",
+            "short_profile": "완고한 수비, 끈기, 생존 본능으로 정의되는 강인한 레이서.",
+            "team_profile": "하스는 투지, 기회주의, 그리고 혼돈스러운 레이스 주말을 극대화할 수 있는 드라이버에 기대고 있습니다.",
+            "traits": ["aggressive", "direct", "underdog", "resilient", "comeback"],
+            "signature_image_path": "assets/signatures/esteban_ocon.png"
+        },
+        {
+            "id": "oliver_bearman",
+            "name": "Oliver Bearman",
+            "team": "Haas",
+            "nationality": "영국",
+            "short_profile": "두려움 없는 에너지와 응원하기 쉬운 성장 궤도를 가진 자신감 있는 초미남 루키.",
+            "team_profile": "하스는 투지, 기회주의, 그리고 혼돈스러운 레이스 주말을 극대화할 수 있는 드라이버에 기대고 있습니다.",
+            "traits": ["rookie", "bold", "flashy", "story", "high_risk"],
+            "signature_image_path": "assets/signatures/oliver_bearman.png"
+        },
+        {
+            "id": "isack_hadjar",
+            "name": "Isack Hadjar",
+            "team": "Racing Bulls",
+            "nationality": "프랑스",
+            "short_profile": "감성, 재능, 진정한 와일드카드 잠재력을 지닌 폭발적인 주니어 졸업생.",
+            "team_profile": "레이싱 불스는 활기차고 개발 중심적이며, 굶주린 젊은 재능으로 정의되는 경우가 많습니다.",
+            "traits": ["rookie", "aggressive", "flashy", "high_risk", "charismatic"],
+            "signature_image_path": "assets/signatures/isack_hadjar.png"
+        },
+        {
+            "id": "liam_lawson",
+            "name": "Liam Lawson",
+            "team": "Racing Bulls",
+            "nationality": "뉴질랜드",
+            "short_profile": "압박 속에서 편안해 보이며, 사람들의 의심을 증명으로 갚는 날카로운 기회주의자.",
+            "team_profile": "레이싱 불스는 활기차고 개발 중심적이며, 굶주린 젊은 재능으로 정의되는 경우가 많습니다.",
+            "traits": ["bold", "direct", "underdog", "resilient", "comeback"],
+            "signature_image_path": "assets/signatures/liam_lawson.png"
+        },
+        {
+            "id": "arvid_lindblad",
+            "name": "Arvid Lindblad",
+            "team": "Red Bull Racing",
+            "nationality": "영국",
+            "short_profile": "막대한 성장 가능성, 속도 명성, 미래 스타로서의 매력을 지닌 초젊은 유망주.",
+            "team_profile": "레드불 레이싱은 날카로운 실행력, 공기역학적 효율성, 그리고 챔피언십 수준의 페이스에 집중합니다.",
+            "traits": ["rookie", "bold", "high_risk", "story", "aggressive"],
+            "signature_image_path": "assets/signatures/arvid_lindblad.png"
+        }
+    ]
+

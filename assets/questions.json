@@ -1,0 +1,210 @@
+[
+        {
+            "id": "q1",
+            "title": "Q1. 어떤 컬러 무드가 가장 끌리나요?",
+            "options": [
+                {
+                    "label": "강렬한 레드/블랙, 존재감이 확실한 분위기",
+                    "trait_weights": {"flashy": 3, "direct": 2, "championship": 2, "charismatic": 1},
+                    "driver_bonuses": {"max_verstappen": 2, "charles_leclerc": 2, "lewis_hamilton": 1}
+                },
+                {
+                    "label": "오렌지/은색, 세련되고 트렌디한 분위기",
+                    "trait_weights": {"papaya": 3, "silver": 3, "technical": 1, "ace": 1},
+                    "driver_bonuses": {"lando_norris": 2, "oscar_piastri": 2, "george_russell": 1}
+                },
+                {
+                    "label": "그린/블루, 차분하지만 개성이 있는 분위기",
+                    "trait_weights": {"green": 3, "blue": 3, "calm": 1, "underdog": 1},
+                    "driver_bonuses": {"fernando_alonso": 1, "alexander_albon": 1, "carlos_sainz": 1}
+                },
+                {
+                    "label": "미니멀한 무채색, 깔끔하고 기능적인 분위기",
+                    "trait_weights": {"disciplined": 3, "technical": 2, "smooth": 2},
+                    "driver_bonuses": {"valtteri_bottas": 2, "nico_hulkenberg": 1, "oscar_piastri": 1}
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "title": "Q2. 가장 좋아하는 주행 스타일은 무엇인가요?",
+            "options": [
+                {
+                    "label": "늦은 브레이킹과 과감한 압박",
+                    "trait_weights": {"aggressive": 3, "overtake": 2, "bold": 2},
+                    "driver_bonuses": {"max_verstappen": 2, "esteban_ocon": 1, "isack_hadjar": 1}
+                },
+                {
+                    "label": "라인이 깔끔하고 실수가 적은 정밀함",
+                    "trait_weights": {"precise": 3, "technical": 2, "disciplined": 2},
+                    "driver_bonuses": {"oscar_piastri": 2, "george_russell": 1, "gabriel_bortoleto": 1}
+                },
+                {
+                    "label": "타이어와 레이스 흐름을 읽는 운영형",
+                    "trait_weights": {"smooth": 3, "consistent": 2, "calm": 2},
+                    "driver_bonuses": {"sergio_perez": 2, "carlos_sainz": 1, "fernando_alonso": 1}
+                },
+                {
+                    "label": "한 바퀴의 폭발력과 스타성",
+                    "trait_weights": {"qualifying": 3, "flashy": 2, "charismatic": 1},
+                    "driver_bonuses": {"charles_leclerc": 2, "kimi_antonelli": 1, "lando_norris": 1}
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "title": "Q3. 더 끌리는 레이스 운영은?",
+            "options": [
+                {
+                    "label": "일단 들이대고 추월 기회를 만든다",
+                    "trait_weights": {"aggressive": 3, "direct": 2, "high_risk": 1},
+                    "driver_bonuses": {"max_verstappen": 2, "franco_colapinto": 1, "oliver_bearman": 1}
+                },
+                {
+                    "label": "무리하지 않고 꾸준히 포인트를 쌓는다",
+                    "trait_weights": {"consistent": 3, "smooth": 2, "disciplined": 1},
+                    "driver_bonuses": {"carlos_sainz": 2, "nico_hulkenberg": 1, "valtteri_bottas": 1}
+                },
+                {
+                    "label": "상황에 따라 냉정하게 계산한다",
+                    "trait_weights": {"technical": 3, "calm": 2, "ace": 1},
+                    "driver_bonuses": {"fernando_alonso": 2, "oscar_piastri": 1, "george_russell": 1}
+                },
+                {
+                    "label": "혼돈 속에서 기세로 분위기를 바꾼다",
+                    "trait_weights": {"resilient": 3, "comeback": 2, "underdog": 2},
+                    "driver_bonuses": {"liam_lawson": 2, "pierre_gasly": 1, "alexander_albon": 1}
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "title": "Q4. 어떤 서사의 선수를 더 응원하게 되나요?",
+            "options": [
+                {
+                    "label": "이미 정상을 증명한 절대 에이스",
+                    "trait_weights": {"ace": 3, "championship": 2, "qualifying": 1},
+                    "driver_bonuses": {"max_verstappen": 2, "lewis_hamilton": 2, "charles_leclerc": 1}
+                },
+                {
+                    "label": "지금 가장 뜨거운 현재형 스타",
+                    "trait_weights": {"flashy": 3, "charismatic": 2, "story": 1},
+                    "driver_bonuses": {"lando_norris": 2, "charles_leclerc": 1, "oscar_piastri": 1}
+                },
+                {
+                    "label": "미래가 더 기대되는 루키",
+                    "trait_weights": {"rookie": 4, "story": 2, "high_risk": 1},
+                    "driver_bonuses": {"kimi_antonelli": 2, "oliver_bearman": 1, "arvid_lindblad": 1}
+                },
+                {
+                    "label": "조건을 뛰어넘는 언더독",
+                    "trait_weights": {"underdog": 4, "resilient": 2, "comeback": 1},
+                    "driver_bonuses": {"alexander_albon": 2, "fernando_alonso": 1, "liam_lawson": 1}
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "title": "Q5. 성격적으로 더 끌리는 타입은?",
+            "options": [
+                {
+                    "label": "조용하지만 안에서 강한 타입",
+                    "trait_weights": {"calm": 3, "disciplined": 2, "technical": 1},
+                    "driver_bonuses": {"oscar_piastri": 2, "valtteri_bottas": 1, "gabriel_bortoleto": 1}
+                },
+                {
+                    "label": "카메라를 끌어당기는 화려한 타입",
+                    "trait_weights": {"flashy": 3, "charismatic": 3},
+                    "driver_bonuses": {"lewis_hamilton": 2, "lando_norris": 2, "charles_leclerc": 1}
+                },
+                {
+                    "label": "냉정하고 일 중심적인 타입",
+                    "trait_weights": {"technical": 3, "direct": 2, "qualifying": 1},
+                    "driver_bonuses": {"george_russell": 2, "max_verstappen": 1, "carlos_sainz": 1}
+                },
+                {
+                    "label": "거칠어도 인간적인 열정형",
+                    "trait_weights": {"aggressive": 2, "story": 2, "resilient": 2},
+                    "driver_bonuses": {"pierre_gasly": 2, "franco_colapinto": 1, "isack_hadjar": 1}
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "title": "Q6. 가장 짜릿한 순간은 무엇인가요?",
+            "options": [
+                {
+                    "label": "마지막 한 바퀴까지 버티는 수비",
+                    "trait_weights": {"direct": 2, "resilient": 2, "underdog": 2},
+                    "driver_bonuses": {"esteban_ocon": 2, "liam_lawson": 1, "alexander_albon": 1}
+                },
+                {
+                    "label": "폴 포지션을 만드는 한 방 랩",
+                    "trait_weights": {"qualifying": 3, "flashy": 2, "ace": 1},
+                    "driver_bonuses": {"charles_leclerc": 2, "george_russell": 1, "kimi_antonelli": 1}
+                },
+                {
+                    "label": "비나 변수 속에서 살아남는 센스",
+                    "trait_weights": {"rain": 3, "calm": 2, "technical": 1},
+                    "driver_bonuses": {"lewis_hamilton": 2, "fernando_alonso": 2, "lance_stroll": 1}
+                },
+                {
+                    "label": "하위권에서 올라오는 대역전극",
+                    "trait_weights": {"comeback": 3, "story": 2, "resilient": 1},
+                    "driver_bonuses": {"sergio_perez": 2, "pierre_gasly": 1, "oliver_bearman": 1}
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "title": "Q7. 결과를 볼 때 더 중요한 것은?",
+            "options": [
+                {
+                    "label": "무조건 기록과 성적",
+                    "trait_weights": {"ace": 2, "championship": 2, "consistent": 1},
+                    "driver_bonuses": {"max_verstappen": 2, "george_russell": 1, "oscar_piastri": 1}
+                },
+                {
+                    "label": "과정과 서사, 성장 곡선",
+                    "trait_weights": {"story": 3, "rookie": 2, "underdog": 1},
+                    "driver_bonuses": {"gabriel_bortoleto": 1, "oliver_bearman": 1, "arvid_lindblad": 1}
+                },
+                {
+                    "label": "양쪽 다, 완성형 밸런스",
+                    "trait_weights": {"smooth": 2, "technical": 2, "charismatic": 1},
+                    "driver_bonuses": {"carlos_sainz": 2, "lando_norris": 1, "lewis_hamilton": 1}
+                },
+                {
+                    "label": "예측 불가의 드라마",
+                    "trait_weights": {"high_risk": 2, "flashy": 2, "comeback": 2},
+                    "driver_bonuses": {"isack_hadjar": 2, "franco_colapinto": 1, "liam_lawson": 1}
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "title": "Q8. 마지막 취향 보정: 한 명을 같이 응원하러 간다면?",
+            "options": [
+                {
+                    "label": "압도적인 실력으로 끝내는 챔피언형",
+                    "trait_weights": {"ace": 2, "aggressive": 2, "championship": 2},
+                    "driver_bonuses": {"max_verstappen": 3, "lewis_hamilton": 1}
+                },
+                {
+                    "label": "호감도 높은 대세 스타형",
+                    "trait_weights": {"charismatic": 2, "flashy": 2, "papaya": 1},
+                    "driver_bonuses": {"lando_norris": 3, "charles_leclerc": 1, "oscar_piastri": 1}
+                },
+                {
+                    "label": "조용히 완성도를 보여주는 실속형",
+                    "trait_weights": {"calm": 2, "technical": 2, "disciplined": 2},
+                    "driver_bonuses": {"oscar_piastri": 2, "george_russell": 2, "carlos_sainz": 1}
+                },
+                {
+                    "label": "예상 밖 한 방이 있는 성장형",
+                    "trait_weights": {"rookie": 2, "underdog": 2, "story": 2},
+                    "driver_bonuses": {"kimi_antonelli": 2, "oliver_bearman": 1, "alexander_albon": 1}
+                }
+            ]
+        }
+    ]
